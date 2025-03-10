@@ -7,3 +7,4 @@ ultralytics
 ffmpeg-python
 ffmpeg
 django-cors-headers
+gunicorn
